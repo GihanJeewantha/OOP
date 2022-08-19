@@ -7,6 +7,7 @@ public class Receptionist {
 	public Boolean checkRoomAvailability(int roomNumber) {
 		return null;
 		
+		
 	}
 	public double generateBill() {
 		return ID;

@@ -14,6 +14,21 @@ public class receptionist {
 			return ID;
 			
 		}
+		
+		public void show() {
+			System.out.println(ID);
+			System.out.println(name);
+			System.out.println(TelephoneNumber);
+		}
+		
+		//default constructor 
+		public receptionist() {
+			ID = 369;
+			name = "JeewanthaDilshan";
+			TelephoneNumber = 123456789;
+		}
+		
+		
 	}
 
 
