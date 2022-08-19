@@ -1,9 +1,19 @@
 
 public class receptionist {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		private int ID;
+		private String name;
+		private int TelephoneNumber;
+		
+		public boolean cheackRoomAvailability(int roomNumber) {
+			return false;
+			
+		}
+		
+		public double generateBill() {
+			return ID;
+			
+		}
 	}
 
-}
+
