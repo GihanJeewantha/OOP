@@ -1,5 +1,5 @@
 package inheritance;
 
-public class Car {
+public class Car extends Vehicle{
 
 }

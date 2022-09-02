@@ -1,5 +1,5 @@
 package inheritance;
 
-public class Bycycle {
+public class Bycycle extends Vehicle{
 
 }
