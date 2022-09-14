@@ -19,9 +19,9 @@ public class Test {
 		S2.ditno = "456";
 		S2.address = "Malabe";
 		
-		System.out.println("Name "+S1.name+ "Dit NUmber "+S1.ditno+ "Address "+ S1.address);
+		System.out.println("Name \n"+S1.name+ "Dit NUmber \n"+S1.ditno+ "Address "+ S1.address);
 		
-		System.out.println("Name "+S2.name+ "Dit NUmber "+S2.ditno+ "Address "+ S2.address);
+		System.out.println("Name \n"+S2.name+ "Dit NUmber \n"+S2.ditno+ "Address "+ S2.address);
 
 	}
 
