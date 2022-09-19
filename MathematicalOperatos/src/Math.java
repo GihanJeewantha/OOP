@@ -7,7 +7,7 @@ public class Math {
 		// int x = 10;
 		// int y = 5;
 		
-		int x,y,z,a,b,c;
+		double x,y,z,a,b,c;
 		
 		x=10;
 		y=5;
