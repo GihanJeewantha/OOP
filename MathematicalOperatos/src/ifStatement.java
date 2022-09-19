@@ -5,7 +5,7 @@ public class ifStatement {
 		// TODO Auto-generated method stub
 		int x = 100;
 		
-		if(x == 10) {
+		if(x >= 10) {
 			System.out.println("True");
 		}else {
 			System.out.println("else");
