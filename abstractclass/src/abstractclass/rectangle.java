@@ -1,6 +1,6 @@
 package abstractclass;
 
-public class rectangle extends shape{
+abstract public class rectangle extends shape{
 	
 
 }
