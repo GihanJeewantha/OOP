@@ -8,7 +8,7 @@ class B extends A{
 	int x = 15;
 	
 	public void print() {
-		System.out.println(super.x);
+		System.out.println(super.x); // Ussing super key word  call Sub truo super class variables and valuse
 	}
 }
 
